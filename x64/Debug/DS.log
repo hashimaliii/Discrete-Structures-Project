@@ -1,0 +1,15 @@
+﻿  Q1-A.cpp
+F:\Programming\OOP\DS\Q1-A.cpp(139,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Programming\OOP\DS\Q1-A.cpp(140,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Programming\OOP\DS\Q1-A.cpp(190,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Programming\OOP\DS\Q1-A.cpp(201,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Programming\OOP\DS\Q1-A.cpp(226,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Programming\OOP\DS\Q1-A.cpp(332,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Programming\OOP\DS\Q1-A.cpp(459,14): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+F:\Programming\OOP\DS\Q1-A.cpp(474,14): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+F:\Programming\OOP\DS\Q1-A.cpp(489,14): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+F:\Programming\OOP\DS\Q1-A.cpp(513,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Programming\OOP\DS\Q1-A.cpp(522,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Programming\OOP\DS\Q1-A.cpp(535,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Programming\OOP\DS\Q1-A.cpp(536,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DS.vcxproj -> F:\Programming\OOP\DS\x64\Debug\DS.exe

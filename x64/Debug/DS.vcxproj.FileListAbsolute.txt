@@ -1,0 +1,7 @@
+D:\Projects\DS\x64\Debug\DS.exe
+D:\Slides\Discrete\DS\x64\Debug\DS.exe
+C:\Users\taqis\OneDrive\Documents\FAST\Semester 2\Discrete\DS\DS\x64\Debug\DS.exe
+F:\Programming\OOP\DS\DS\x64\Debug\DS.exe
+C:\Users\taqis\OneDrive\Documents\FAST\Semester 2\Discrete\DS\x64\Debug\DS.exe
+C:\Users\sss\Downloads\Programs\DS\x64\Debug\DS.exe
+F:\Programming\OOP\DS\x64\Debug\DS.exe
