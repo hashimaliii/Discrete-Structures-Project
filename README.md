@@ -4,6 +4,7 @@
 3. Bipartite Checker
    
 Question No 1
+
 PART 1:	
 Write down a program to check whether a statement is logically equivalent or not using truth table. 
 Using C++ and built-in libraries but you must have complete knowledge of it. 
